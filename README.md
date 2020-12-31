@@ -1,4 +1,4 @@
-#App is hosted with heroku
+# App is hosted with heroku
 
 [Link](https://training-handler.herokuapp.com/)
 
